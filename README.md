@@ -10,8 +10,8 @@ For More Information Visit http://www.studiopieters.nl/
 - [X] Window Sensor
 - [X] Garage Sensor
 - [X] Blinds Sensor
-
-
+ 
+ 
 
 
 
